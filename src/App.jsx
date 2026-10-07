@@ -7,7 +7,7 @@ import AdminLayout from './Layouts/adminlayout';
 import AdminDashboard from './pages/Adminpages/admindashboard';
 import AboutPage from './pages/Adminpages/aboutpages';
 import Cart from './pages/frontpages/cart';
-import Dashboard from './pages/frontpages/dashboard';
+import Dashboard from './pages/frontpages/Dashboard';
 import Checkout from './pages/frontpages/checkout';
 
 function App() { 
